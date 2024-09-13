@@ -1,0 +1,40 @@
+.sec2{
+
+    height: 700px;
+    background-color: rgb(33, 31, 31);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.card{
+ margin-top: 150px;
+    display: flex;
+  flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border: 1px solid white;
+    width: 400px;
+    height: 530px;
+    transition: 1s;
+}
+button{
+    background-color: blue;
+    border: none;
+    width: 30px;
+    height: 5px;
+}
+.card h2{
+    color: rgb(144, 144, 148);
+    text-align: center;
+}
+.card p{
+    width: 300px;
+    color: rgb(214, 216, 219);
+    margin-left: 15px;
+    text-align: center;
+}
+
+.cen{
+    font-size: 35px;
+}

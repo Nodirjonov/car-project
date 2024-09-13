@@ -1,0 +1,45 @@
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+   gap: 40px;
+
+   
+
+   
+}
+.asnova{
+    position: sticky;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+  z-index: 4;
+}
+.asnova a{
+ color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.7s;
+text-decoration: none;
+    
+}
+
+.left h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    font-size: 30px;
+   
+}
+.asnova a:hover{
+    color: blue;
+}
+.asnova h1{
+    color: white;
+}
+a{
+    color: white;
+}

@@ -1,0 +1,59 @@
+.hikki{
+    text-align: center;
+}
+.hbir{
+    text-align: center;
+}
+
+.cardi{
+    border: 1px solid gray;
+    width: 350px;
+    font-size: 20px;
+height: 300px;
+}
+.cardii{
+    font-size: 20px;
+   margin-top: 30px;
+    text-align: center;
+    border: 1px solid gray;
+    width: 350px;
+}
+.cardd{
+font-size: 20px;
+    text-align: center;
+    width: 350px;
+    text-align: center;
+
+
+}
+.carddd{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+    width: 350px;
+    text-align: center;
+
+}
+
+.x-card{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.q{
+    font-size: 23px;
+}
+.mini-cardi{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+}
+.mini-cardii{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 180px;
+}
